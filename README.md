@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikita-nandankar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nikitaax&label=Profile%20views&color=FAC151&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Frontend Developer at *Shell India*  
+- 🎯 Frontend Developer
 - 🧠 Passionate about *clean architecture, **modular code, and **high-performance UIs*
 - 💻 Experienced in *Angular, **React, **TypeScript, **RxJS, and **SCSS*
 - 🔍 Focused on writing *testable, **accessible, and **reusable components*
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikita-nandankar&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-nandankar&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitaax&show_icons=true&theme=buefy" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaax&layout=compact&theme=buefy" width="350"/>
 </p>
 
 ---
@@ -57,27 +57,15 @@ Here are some ideas to get you started:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikita-nandankar&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaax&theme=buefy&hide_border=false" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-<a href="https://github.com/nikita-nandankar/your-project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikita-nandankar&repo=your-project-name&theme=radical" />
-</a>
-
-<a href="https://github.com/nikita-nandankar/another-project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikita-nandankar&repo=another-project-name&theme=radical" />
-</a>
 
 ---
 
 ## 🗓️ Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/nikita-nandankar" alt="GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/nikitaax" alt="GitHub contribution chart" />
 </p>
 
 ## 🌐 Connect With Me
