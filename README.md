@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 🎯 Frontend Developer
-- 🧠 Passionate about **clean architecture**, **modular code**, and **high-performance UIs**
-- 💻 Experienced in **Angular**, **React**, **TypeScript**, **RxJS**, and **SCSS**
-- 🔍 Focused on writing **testable**, **accessible**, and **reusable components**
-- ✨ I enjoy learning new tools and design patterns
+Hey, I’m a **Frontend Developer** with close to 4 years of experience building **scalable, user-centric web apps** using **Angular** and **React**. I’m passionate about creating **clean, fast, and maintainable code** that powers seamless user experiences.
+
+When I’m not coding, I’m probably learning the latest tech, optimizing performance, or helping teammates grow through **collaborative problem-solving.** I love diving into new challenges and turning complex problems into simple, elegant solutions.
+
+Let’s build something awesome together! ✨
 
 ---
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 | Frontend | State Management | Testing | Tools & Others |
 |---------|------------------|---------|----------------|
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![NgRx](https://img.shields.io/badge/-NgRx-8A2BE2?style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) | ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat) ![Karma](https://img.shields.io/badge/-Karma-08A8A5?style=flat) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack) |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat=typescript&logoColor=white)| ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![NgRx](https://img.shields.io/badge/-NgRx-8A2BE2?style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) | ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat) ![Karma](https://img.shields.io/badge/-Karma-08A8A5?style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack) |
 
 ---
 
