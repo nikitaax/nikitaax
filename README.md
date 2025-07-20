@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 🎯 Frontend Developer
-- 🧠 Passionate about *clean architecture, **modular code, and **high-performance UIs*
-- 💻 Experienced in *Angular, **React, **TypeScript, **RxJS, and **SCSS*
-- 🔍 Focused on writing *testable, **accessible, and **reusable components*
+- 🧠 Passionate about **clean architecture**, **modular code**, and **high-performance UIs**
+- 💻 Experienced in **Angular**, **React**, **TypeScript**, **RxJS**, and **SCSS**
+- 🔍 Focused on writing **testable**, **accessible**, and **reusable components**
 - ✨ I enjoy learning new tools and design patterns
 
 ---
