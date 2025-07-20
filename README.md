@@ -48,8 +48,8 @@ Let’s build something awesome together! ✨
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitaax&show_icons=true&theme=buefy" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaax&layout=compact&theme=buefy" width="350"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nikitaax&show_icons=true&theme=buefy" width="450"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaax&layout=compact&theme=buefy" width="350"/> 
 </p>
 
 ---
