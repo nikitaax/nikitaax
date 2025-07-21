@@ -49,8 +49,11 @@ Let’s build something awesome together! ✨
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=nikitaax&show_icons=true&theme=buefy" width="450"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaax&layout=compact&theme=buefy" width="350"/> 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaax&layout=compact&theme=buefy" width="350"/> </p>
+<!--   ![nikitaax's Stats](https://github-readme-stats.vercel.app/api?username=nikitaax&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+
+  ![nikitaax's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaax&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
+
 
 ---
 
