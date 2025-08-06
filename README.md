@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nikita Nandankar</h1>
-<h3 align="center">Frontend Developer | Angular & React Enthusiast | UI Engineer</h3>
+<h3 align="center">Software Developer | Angular & React Enthusiast | UI Engineer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Hey, I’m a **Frontend Developer** with close to 4 years of experience building **scalable, user-centric web apps** using **Angular** and **React**. I’m passionate about creating **clean, fast, and maintainable code** that powers seamless user experiences.
+Hey, I’m a **Software Developer** with close to 4 years of experience building **scalable, user-centric web apps** using **Angular**, **React** and **Java**. I’m passionate about creating **clean, fast, and maintainable code** that powers seamless user experiences.
 
 When I’m not coding, I’m probably learning the latest tech, optimizing performance, or helping teammates grow through **collaborative problem-solving.** I love diving into new challenges and turning complex problems into simple, elegant solutions.
 
@@ -41,9 +41,10 @@ Let’s build something awesome together! ✨
 
 ## 🛠️ Tech Stack
 
-| Frontend | State Management | Testing | Tools & Others |
-|---------|------------------|---------|----------------|
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat=typescript&logoColor=white)| ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![NgRx](https://img.shields.io/badge/-NgRx-8A2BE2?style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) | ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat) ![Karma](https://img.shields.io/badge/-Karma-08A8A5?style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack) |
+| Frontend | State Management | Backend | Testing | Tools & Others |
+|----------|------------------|---------|---------|----------------|
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white) ![NgRx](https://img.shields.io/badge/-NgRx-8A2BE2?style=flat) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) | ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat) ![Karma](https://img.shields.io/badge/-Karma-08A8A5?style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack) |
+
 
 ---
 
