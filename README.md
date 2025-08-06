@@ -56,21 +56,15 @@ Let’s build something awesome together! ✨
 </p>
 
 ---
-
+<!--
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaax&theme=buefy&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=nikitaax&theme=buefy&hide_border=false" />
 </p>
 
 ---
-
-## 🗓️ Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/nikitaax" alt="GitHub contribution chart" />
-</p>
-
+-->
 ## 🌐 Connect With Me
 
 <p align="center">
